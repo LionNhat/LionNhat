@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Hanoi University of Business and Technology](http://hubt.edu.vn/) (Hubt).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- ❤ I’m currently learning **Software Engineering.**
 
 
 ## 📫 How to reach me:
