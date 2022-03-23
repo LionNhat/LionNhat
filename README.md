@@ -11,8 +11,8 @@
 - 📫 How to reach me Facebook [Trịnh Hoài Nhất](https://www.facebook.com/trinhhoainhat/)
 </p>
 
-<table style="width:80%;">
+
   <tr>
     <td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionnhat&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="lionnhat" width="100%"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionnhat&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="lionnhat" width="50%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=lionnhat&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoai%20Nhat%20GitHubt%20Stats" alt="lionnhat" width="50%"/>
