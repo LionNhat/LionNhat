@@ -6,7 +6,6 @@
 
 - ❤ I’m currently learning **Software Engineering.**
 - 👀 I’m interested in the world of software
-- 🌱 I’m currently learning studying software engineering
 - 💞️ I'm know that github is the largest developer community in the world, so I come here to learn and improve my knowledge.
 - 📫 How to reach me Facebook [Trịnh Hoài Nhất](https://www.facebook.com/trinhhoainhat/)
 </p>
