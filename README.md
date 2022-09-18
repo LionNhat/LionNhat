@@ -2,7 +2,7 @@
 <p align="left"><img src="https://img.icons8.com/emoji/48/000000/vietnam-emoji.png"/></p>
 <h3 align="left">A Developer From Vietnam </h3>
 
-- ✍ I'm a student of:  <a href="http://hubt.edu.vn/">Hanoi University of Business and Technology</a>.
+- ✍ I'm a student of:  <a href="http://hubt.edu.vn/">Hanoi University of Business and Technology</a>(HUBT).
 
 - ❤ I’m currently learning **Software Engineering.**
 - 👀 I’m interested in the world of software
