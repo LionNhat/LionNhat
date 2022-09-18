@@ -1,6 +1,6 @@
 <h1 align="left">Hi 😊, I'm Hoai Nhat</h1>
 <p align="left"><img src="https://img.icons8.com/emoji/48/000000/vietnam-emoji.png"/></p>
-<p align="right" width="50px"><img src="https://thi.hubt.edu.vn/packages/hubt/img/logohubt.jpg"/></p>
+<p align="right"><img src="https://thi.hubt.edu.vn/packages/hubt/img/logohubt.jpg" width="50px" height="50px"/></p>
 <h3 align="left">A Developer From Vietnam </h3>
 
 - ✍ I'm a student of:  <a href="http://hubt.edu.vn/">Hanoi University of Business and Technology </a>(HUBT).
