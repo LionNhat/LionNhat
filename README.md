@@ -1,4 +1,4 @@
-<h1 align="left">Hi 😊, I'm Hoai Nhat</h1>
+<h2 align="left">Hi 😊, I'm Hoai Nhat</h2>
 <p align="left"><img src="https://img.icons8.com/emoji/48/000000/vietnam-emoji.png"/></p>
 <h3 align="left">A Developer From Vietnam </h3>
 
